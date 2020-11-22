@@ -21,7 +21,7 @@
         />
 
     <EditText
-        android:id="@+id/edit1"
+        android:id="@+id/fn"
         android:layout_width="180dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
@@ -41,7 +41,7 @@
         android:textSize="20dp"
         />
     <EditText
-        android:id="@+id/edit2"
+        android:id="@+id/ln"
         android:layout_width="180dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
@@ -61,7 +61,7 @@
         android:textSize="20dp"
         />
     <EditText
-        android:id="@+id/edit4"
+        android:id="@+id/eml"
         android:layout_width="180dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
@@ -80,7 +80,7 @@
         android:textSize="20dp"
         />
     <EditText
-        android:id="@+id/edit3"
+        android:id="@+id/pwd"
         android:layout_width="180dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
@@ -100,7 +100,7 @@
         android:textSize="20dp"
         />
     <EditText
-        android:id="@+id/edit5"
+        android:id="@+id/cnct"
         android:layout_width="180dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
